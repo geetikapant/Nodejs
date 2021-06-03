@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My First project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geetikapant/Nodejs.git"
+  },
+  "author": "Geetika Pant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geetikapant/Nodejs/issues"
+  },
+  "homepage": "https://github.com/geetikapant/Nodejs#readme"
+}
