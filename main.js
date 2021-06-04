@@ -1,7 +1,18 @@
-console.log("Hellow World");
+var person=function(a,b){
+    var c=a+b;
+    console.log(c)
+}
 
-const a=10;
-const b=10;
-c=a+b;
-console.log("Total = "+c);
+person(4,5)
 
+//arrow function
+
+var users=(a,b)=>{
+    c=a+b;
+    console.log("This is arrow function "+c);
+
+}
+
+
+
+users(3,5)
